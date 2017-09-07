@@ -1,0 +1,27 @@
+{
+  "name": "rodolfo-js",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leo-santanna/rodolfo-js.git"
+  },
+  "author": "leo-santanna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leo-santanna/rodolfo-js/issues"
+  },
+  "homepage": "https://github.com/leo-santanna/rodolfo-js#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0"
+  }
+}
