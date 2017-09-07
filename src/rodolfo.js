@@ -27,7 +27,7 @@ const rodolfo = (function() {
      * Dá nome ao seu pequeno porquinho
      * @param {string} nome nome desejado
      */
-    setNome(nome) {
+    darNovoNome(nome) {
       this._nome = nome;
     },
 
