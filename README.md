@@ -9,8 +9,6 @@ Versão 0.0.1
 - Dê o nome que desejar ao seu porquinho
 - Verifique seu estado de saúde
 
-#############
-
 # Contexto histórico
 
 Para aqueles que não conhecem o mítico porquinho Rodolfo, inspiração deste código, confira [__confira essa celebridade__](https://www.youtube.com/watch?v=ac7qqiXlfNg)
