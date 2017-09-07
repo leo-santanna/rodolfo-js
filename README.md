@@ -11,4 +11,4 @@ Versão 0.0.1
 
 # Contexto histórico
 
-Para aqueles que não conhecem o mítico porquinho Rodolfo, inspiração deste código, confira [__confira essa celebridade__](https://www.youtube.com/watch?v=ac7qqiXlfNg)
+Para aqueles que não conhecem o mítico porquinho Rodolfo, inspiração deste código, [__confira essa celebridade__](https://www.youtube.com/watch?v=ac7qqiXlfNg)
